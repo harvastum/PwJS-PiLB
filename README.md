@@ -11,7 +11,7 @@ Files and their corresponding tasks are outlined below.
  - [Zapis danych](1/zapis_danych.py) - `zapis_danych.py`
 
 ## 2. Praca z plikami
- - [Ilość plików](2/ilosc_plikow.py)
+ - [Ilość plików](2/ilosc_plikow.py) - `ilosc_plikow.py`
 
 ## 3. Tekst
  - [Usuwanie słów](3/usuwanie_slow.py) - `usuwanie_slow.py`
@@ -35,4 +35,4 @@ Files and their corresponding tasks are outlined below.
 
 ## 7.
 - [Histogram](7/histogram.py) - `histogram.py`
-- [Pięciu filozofów](7/filozofowie.py) `filozofowie.py` [oraz](7/filozofowie_BDL.py) `filozofowie_BDL.py`
+- [Pięciu filozofów](7/filozofowie.py) - `filozofowie.py` [oraz](7/filozofowie_BDL.py) `filozofowie_BDL.py`
