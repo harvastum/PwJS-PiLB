@@ -1,0 +1,8 @@
+ andn't :  and ,
+ alson't :  also ,
+ nevern't :  never ,
+ whyn't :  why ,
+ and :  andn't ,
+ also :  alson't ,
+ never :  nevern't ,
+ why :  whyn't 
